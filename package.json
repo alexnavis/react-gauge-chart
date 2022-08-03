@@ -59,8 +59,8 @@
     "rimraf": "^2.7.1"
   },
   "peerDependencies": {
-    "react": "^16.8.2 || ^17.0",
-    "react-dom": "^16.8.2 || ^17.0"
+    "react": "*",
+    "react-dom": "*"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
