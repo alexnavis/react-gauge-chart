@@ -6,7 +6,7 @@ Forked from https://github.com/Martin36/react-gauge-chart.
 React component for displaying a gauge chart, using D3.js
 
 # Usage
-Install it by running `npm install react-gauge-chart`. Then to use it:
+Install it by running `npm install react-gauge-chart2`. Then to use it:
 
 ```jsx
 import GaugeChart from 'react-gauge-chart'
